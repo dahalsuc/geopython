@@ -6,6 +6,8 @@
 import time
 import os
 
+x = 2
+
 ## import the math packages to square root the numbers
 import math
 
